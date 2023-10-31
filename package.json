@@ -1,0 +1,23 @@
+{
+  "name": "tarefa-1-ppi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppaulooXD/Tarefa-1-PPI.git"
+  },
+  "author": "Paulo Amorim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppaulooXD/Tarefa-1-PPI/issues"
+  },
+  "homepage": "https://github.com/ppaulooXD/Tarefa-1-PPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
